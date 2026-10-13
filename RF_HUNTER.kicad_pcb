@@ -108,10 +108,10 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
-			(usegerberattributes yes)
-			(usegerberadvancedattributes yes)
-			(creategerberjobfile yes)
+			(usegerberextensions yes)
+			(usegerberattributes no)
+			(usegerberadvancedattributes no)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12)
 			(dashed_line_gap_ratio 3)
 			(svgprecision 4)
@@ -138,7 +138,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "./")
+			(outputdirectory "gerbers/")
 		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
@@ -1013,7 +1013,7 @@
 			(at -4 2 180)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "ed4912cf-34f9-4f2b-9a1f-ffafb91930c5")
+			(uuid "c15fd618-2cf2-4202-a6fa-3ba79f4bad95")
 			(effects
 				(font
 					(size 1 1)
@@ -1025,7 +1025,7 @@
 			(at -0.25 3.899999 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "4f119c61-9ffb-447c-aa49-00d9511e12fb")
+			(uuid "ea928431-147f-4d1e-abe6-0bd6ef1243e3")
 			(effects
 				(font
 					(size 1 1)
@@ -1037,7 +1037,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0f1ebb82-b7c9-4871-b41f-7bba7493e45e")
+			(uuid "75949536-2681-4b7b-9f2a-94168c34f33e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1048,7 +1048,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "977f073c-8c61-4317-ada0-eea68b1d2388")
+			(uuid "98b78069-b369-4d91-80ef-f0d97d1a5be5")
 			(effects
 				(font
 					(size 1.27 1.27)
